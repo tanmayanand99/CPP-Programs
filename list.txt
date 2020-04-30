@@ -1,0 +1,47 @@
+
+#3- getline()
+#4- typecasting
+#6- iomanip.h and manipulator setprecision, setw and setfill('*')
+#7- scope resolution operator
+#8- structures, .precision() , .setf(ios::fixed)
+#9- unions
+#10- anonymous unions
+#11- enumerations
+#12- reference variables
+#14- swapping by reference variables, w/o pointers
+#23- dynamic memory allocation
+#25- OOPs, class
+#26- -> operator example
+How to make a header file
+#30- How to include a header file
+#33- important H.W. question
+#34- friend function
+#35,36- important programs, bubble sort
+#39- function overloading
+#40-44 important programs of function overloading, itoa
+#45-46 default arguments
+#47-48 inline functions
+#49- default constructor
+#50- parameterized constructor
+#51- copy constructor
+#52-54 important examples of copy constructor
+#55- dynamic constructor
+#56-57 IMPORTANT PROGRAMS
+#58- operator overloading- unary
+#60- operator overloading- binary
+#62- operator overloading- ++ and --
+#63- operator overloading- << and >>
+#64- IMPORTANT PROGRAM for all cases above
+#65- inheritance
+#66- An example of hiding base class member
+#67- function overriding
+#69- Multiple inheritance
+#70- Hybrid inheritance
+#71- VIRTUAL keyword in hybrid inheritance (Use-1)
+#72,73,- Constructors in inheritance
+#75- VIRTUAL KEYWORD (Use-2)
+#76- Pure virtual function example
+#77-82 File handling .txt format
+#83-88 File handling .bin format
+#89-93 Template
+#94-eof Exception handling and namespaces
