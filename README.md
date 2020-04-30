@@ -122,20 +122,20 @@
 |[P92.CPP](Programs/P92.CPP)|Templates in CPP(5)|
 |[P93.CPP](Programs/P93.CPP)|Templates in CPP(6)|
 |[P94.CPP](Programs/P94.CPP)|Exception handling in CPP(1)|
-|[P95.CPP](Programs/P95.CPP)|Exception handling in CPP(1)|
-|[P96.CPP](Programs/P96.CPP)|Exception handling i1 CPP(1)|
-|[P97.CPP](Programs/P97.CPP)|Exception handling i2 CPP(1)|
-|[P98.CPP](Programs/P98.CPP)|Exception handling i3 CPP(1)|
-|[P99.CPP](Programs/P99.CPP)|Exception handling i4 CPP(1)|
+|[P95.CPP](Programs/P95.CPP)|Exception handling in CPP(2)|
+|[P96.CPP](Programs/P96.CPP)|Exception handling in CPP(3)|
+|[P97.CPP](Programs/P97.CPP)|Exception handling in CPP(4)|
+|[P98.CPP](Programs/P98.CPP)|Exception handling in CPP(5)|
+|[P99.CPP](Programs/P99.CPP)|Exception handling in CPP(6)|
 |[Mylib.H](Programs/Mylib.h)|Header files for namespace programs(1)|
 |[Mylib2.H](Programs/Mylib2.h)|Header files for namespace programs(2)|
 |[Mylib3.H](Programs/Mylib3.h)|Header files for namespace programs(3)|
 |[Mylib4.H](Programs/Mylib4.h)|Header files for namespace programs(4)|
-|[P100.CPP](Programs/P100.CP1)|Namespaces in CPP(1)
-|[P101.CPP](Programs/P101.CP2)|Namespaces in CPP(1)
-|[P102.CPP](Programs/P102.CP3)|Namespaces in CPP(1)
-|[P103.CPP](Programs/P103.CP4)|Namespaces in CPP(1)
-|[P104.CPP](Programs/P104.CP5)|Namespaces in CPP(1)
-|[P105.CPP](Programs/P105.CP6)|Namespaces in CPP(1)
+|[P100.CPP](Programs/P100.CP1)|Namespaces in CPP(1)|
+|[P101.CPP](Programs/P101.CP2)|Namespaces in CPP(2)|
+|[P102.CPP](Programs/P102.CP3)|Namespaces in CPP(3)|
+|[P103.CPP](Programs/P103.CP4)|Namespaces in CPP(4)|
+|[P104.CPP](Programs/P104.CP5)|Namespaces in CPP(5)|
+|[P105.CPP](Programs/P105.CP6)|Namespaces in CPP(6)|
 |[P106.CPP](Programs/P106.CP7)|Example of vector in STL|
 |[P107.CPP](Programs/P107.CPP)|Example of set in STL|
