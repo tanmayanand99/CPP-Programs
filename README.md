@@ -127,10 +127,10 @@
 |[P97.CPP](Programs/P97.CPP)|Exception handling in CPP(4)|
 |[P98.CPP](Programs/P98.CPP)|Exception handling in CPP(5)|
 |[P99.CPP](Programs/P99.CPP)|Exception handling in CPP(6)|
-|[Mylib.H](Programs/Mylib.h)|Header files for namespace programs(1)|
-|[Mylib2.H](Programs/Mylib2.h)|Header files for namespace programs(2)|
-|[Mylib3.H](Programs/Mylib3.h)|Header files for namespace programs(3)|
-|[Mylib4.H](Programs/Mylib4.h)|Header files for namespace programs(4)|
+|[Mylib.H](Programs/Mylib.H)|Header files for namespace programs(1)|
+|[Mylib2.H](Programs/Mylib2.H)|Header files for namespace programs(2)|
+|[Mylib3.H](Programs/Mylib3.H)|Header files for namespace programs(3)|
+|[Mylib4.H](Programs/Mylib4.H)|Header files for namespace programs(4)|
 |[P100.CPP](Programs/P100.CP1)|Namespaces in CPP(1)|
 |[P101.CPP](Programs/P101.CP2)|Namespaces in CPP(2)|
 |[P102.CPP](Programs/P102.CP3)|Namespaces in CPP(3)|
