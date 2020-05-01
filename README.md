@@ -131,11 +131,11 @@
 |[Mylib2.H](Programs/Mylib2.H)|Header files for namespace programs(2)|
 |[Mylib3.H](Programs/Mylib3.H)|Header files for namespace programs(3)|
 |[Mylib4.H](Programs/Mylib4.H)|Header files for namespace programs(4)|
-|[P100.CPP](Programs/P100.CP1)|Namespaces in CPP(1)|
-|[P101.CPP](Programs/P101.CP2)|Namespaces in CPP(2)|
-|[P102.CPP](Programs/P102.CP3)|Namespaces in CPP(3)|
-|[P103.CPP](Programs/P103.CP4)|Namespaces in CPP(4)|
-|[P104.CPP](Programs/P104.CP5)|Namespaces in CPP(5)|
-|[P105.CPP](Programs/P105.CP6)|Namespaces in CPP(6)|
-|[P106.CPP](Programs/P106.CP7)|Example of vector in STL|
+|[P100.CPP](Programs/P100.CPP)|Namespaces in CPP(1)|
+|[P101.CPP](Programs/P101.CPP)|Namespaces in CPP(2)|
+|[P102.CPP](Programs/P102.CPP)|Namespaces in CPP(3)|
+|[P103.CPP](Programs/P103.CPP)|Namespaces in CPP(4)|
+|[P104.CPP](Programs/P104.CPP)|Namespaces in CPP(5)|
+|[P105.CPP](Programs/P105.CPP)|Namespaces in CPP(6)|
+|[P106.CPP](Programs/P106.CPP)|Example of vector in STL|
 |[P107.CPP](Programs/P107.CPP)|Example of set in STL|
