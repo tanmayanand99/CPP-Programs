@@ -22,6 +22,7 @@
 *  **Namespaces**
 *  **Standard Template Library**
 
+<hr>
 
 ## Table of Contents
 
