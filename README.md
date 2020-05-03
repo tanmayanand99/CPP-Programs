@@ -27,7 +27,7 @@
 ## Table of Contents
 
 | Program Name                     | Description                          |
-| :-----------------------------:  | :--------------------------------:   |
+| :-----------------------------:  | :--------------------------------    |
 |[P1.CPP](Programs/P1.CPP)  |A simple hello world in CPP|
 |[P2.CPP](Programs/P2.CPP)  |Accept data from user and display|
 |[P3.CPP](Programs/P3.CPP)  |Accept data using getline()|
