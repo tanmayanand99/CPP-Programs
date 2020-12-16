@@ -7,6 +7,6 @@ void main()
 {
 	clrscr();
 	cout<<"Welcome to Databyte"<<endl;
-	cout<<"By Shevade Sir";
+	cout<<"By GODFATHER";
 	getch();
 }
